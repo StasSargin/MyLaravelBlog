@@ -5,12 +5,12 @@
         <div class="row">
             <div class="col-sm-3">
                 <div class="jumbotron">
-                    <p><span class="label label-primary">Категорий</span></p>
+                    <p><span class="label label-primary">Категорий 0</span></p>
                 </div>
             </div>
             <div class="col-sm-3">
                 <div class="jumbotron">
-                    <p><span class="label label-primary">Материалов</span></p>
+                    <p><span class="label label-primary">Материалов 0</span></p>
                 </div>
             </div>
         </div>
